@@ -1,1 +1,3 @@
-# breast-cancer-prediction
+# breast-cancer-prediction  
+
+Breast Tumor Classification with Machine Learning
